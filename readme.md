@@ -7,7 +7,7 @@
 ### 1. Directly run the image
 This image is available from the Docker public registry 
   
-``` docker run -p 80:80 --name redirect-to-www -d alkaj/www-direct ```  
+``` docker run -p 80:80 --name redirect-to-www -d alkaj/www ```  
 
 ### 2. Build the image from the source  
 Dowload or clone this repo and build the docker image yourself  
